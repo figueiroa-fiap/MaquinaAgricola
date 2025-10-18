@@ -4,7 +4,8 @@
 
 Projeto acadêmico desenvolvido para explorar uma base de dados agrícola e aplicar técnicas de Machine Learning na recomendação de produtos agrícolas ideais, com base nas condições de solo e clima.
 
----
+Integrantes
+Rodrigo Figueiroa
 
 ## 📊 Etapas do Projeto
 
@@ -18,7 +19,9 @@ Projeto acadêmico desenvolvido para explorar uma base de dados agrícola e apli
 ---
 
 ## 📁 Estrutura do Repositório
-MaquinaAgricola/ ├── assets/           # Imagens dos gráficos gerados ├── script/           # Notebook principal e scripts auxiliares ├── README.md         # Este arquivo
+assets: estão as bases de dados do projeto
+scritp: logo fiap e script do projeto
+
 
 ---
 
@@ -28,11 +31,12 @@ MaquinaAgricola/ ├── assets/           # Imagens dos gráficos gerados ├
    ```bash
    git clone https://github.com/figueiroa-fiap/MaquinaAgricola.git
 
-   2. 	Instale as dependências:
+2. 	Instale as dependências:
 • 	pandas
 • 	seaborn
 • 	matplotlib
 • 	scikit-learn
+
 3. 	Execute o notebook  para reproduzir as análises e modelos.
 
 📦 Base de Dados
