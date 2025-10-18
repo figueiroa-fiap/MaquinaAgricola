@@ -25,3 +25,19 @@ MaquinaAgricola/ ├── assets/           # Imagens dos gráficos gerados ├
 1. Clone o repositório:
    ```bash
    git clone https://github.com/figueiroa-fiap/MaquinaAgricola.git
+
+   2. 	Instale as dependências:
+• 	pandas
+• 	seaborn
+• 	matplotlib
+• 	scikit-learn
+3. 	Execute o notebook  para reproduzir as análises e modelos.
+
+📦 Base de Dados
+A base  está disponível na pasta  e também é carregada diretamente via URL no notebook.
+
+👨‍💻 Autor
+Rodrigo Figueiroa — estudante FIAP, apaixonado por dados, criatividade e soluções práticas.
+
+📜 Licença
+Este projeto é de uso acadêmico e está sob licença Creative Commons Attribution 4.0.
