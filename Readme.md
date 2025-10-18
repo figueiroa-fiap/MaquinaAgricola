@@ -1,3 +1,5 @@
+![Logo FIAP](https://github.com/figueiroa-fiap/MaquinaAgricola/blob/main/script/logo-fiap.png)
+
 # 🌾 MaquinaAgricola — Predição de Produtos Agrícolas com Machine Learning
 
 Projeto acadêmico desenvolvido para explorar uma base de dados agrícola e aplicar técnicas de Machine Learning na recomendação de produtos agrícolas ideais, com base nas condições de solo e clima.
